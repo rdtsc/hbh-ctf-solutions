@@ -1,0 +1,23 @@
+{
+  "name": "hbh-ctf-solutions",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "barcode-validator": "^1.0.2",
+    "bn.js": "^4.11.8",
+    "cheerio": "^1.0.0-rc.2",
+    "compute-gcd": "^1.2.0",
+    "interpolating-polynomial": "^1.1.2",
+    "javascript-barcode-reader": "^0.4.12",
+    "lodash": "^4.17.11",
+    "ora": "^3.2.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7",
+    "temp": "^0.9.0",
+    "wavy": "^1.0.4",
+    "words-to-numbers": "^1.5.1"
+  },
+  "scripts": {
+    "postinstall": "node node_modules/wavy/postinstall"
+  }
+}
