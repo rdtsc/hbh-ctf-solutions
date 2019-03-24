@@ -60,7 +60,7 @@ All referenced product names, trademarks, logos, and images are property of
 their respective owners.
 
 
-[challenges]: https://www.hellboundhackers.org/challenges/timed
+[challenges]: https://www.hellboundhackers.org/challenges/timed/
               "Timed Challenges - Hellbound Hackers"
 
 [mit]: http://opensource.org/licenses/MIT/
