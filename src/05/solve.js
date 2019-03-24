@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 'use strict';
 
 const get   = require('~/lib/get'),
